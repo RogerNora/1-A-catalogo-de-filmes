@@ -11,7 +11,7 @@ header {
     text-align: center;
 }
 
-section{
+.primeira{
     display: flex;
     background-color: #4f4fab;
     padding: 30px;
